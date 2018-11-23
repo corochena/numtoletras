@@ -1,0 +1,16 @@
+div {
+  width: 130px;
+}
+button {
+  font-size: 1.5em;
+  padding: 5px;
+  margin: 0px -2px;
+  width: 40px;
+}
+
+p {
+  background-color: silver;
+  padding: 5px;
+  font-size: 1.5em;
+  text-align: center;
+}
